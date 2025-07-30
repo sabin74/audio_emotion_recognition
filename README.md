@@ -2,7 +2,7 @@
 
 A Python-based application for real-time emotion detection from audio recordings, built with Streamlit and machine learning libraries.
 
-![Demo Screenshot](demo.png) *(Optional: Add screenshot path)*
+![Demo Screenshot](demo.png)
 
 ## Features
 - 🎤 Live audio recording & emotion analysis
