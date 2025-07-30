@@ -8,7 +8,7 @@ scipy==1.10.1
 librosa==0.10.0
 soundfile==0.12.1
 pydub==0.25.1
-git+https://github.com/asehmi/audio-recorder-streamlit.git@main
+audio-recorder-streamlit
 
 # Machine learning
 scikit-learn==1.2.2
