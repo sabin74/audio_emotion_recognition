@@ -12,4 +12,3 @@ plotly
 pyaudio
 tqdm
 joblib
-streamlit-audio-recorder
