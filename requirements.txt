@@ -1,33 +1,15 @@
-# Core dependencies
-numpy==1.23.5
-pandas==1.5.3
-scipy==1.10.1
-
-# Audio processing
-librosa==0.10.0
-soundfile==0.12.1
-pydub==0.25.1
-pyAudioAnalysis==0.3.14
-
-# Machine learning
-scikit-learn==1.2.2
-tensorflow==2.12.0
-keras==2.12.0
-torch==2.0.1
-torchaudio==2.0.2
-xgboost==1.7.5
-
-# Visualization
-matplotlib==3.7.1
-seaborn==0.12.2
-plotly==5.14.1
-
-# Streamlit and audio recording
-streamlit==1.22.0
-streamlit-audio-recorder==0.0.3  # newer version that exists
-wave==0.0.2
-
-# Utilities
-tqdm==4.65.0
-python-dotenv==1.0.0
-joblib==1.2.0
+streamlit
+numpy
+pandas
+scipy
+librosa
+soundfile
+scikit-learn
+xgboost
+matplotlib
+seaborn
+plotly
+pyaudio
+tqdm
+joblib
+streamlit-audio-recorder
